@@ -2,7 +2,7 @@
 
 A comprehensive physics-based longitudinal vehicle model with gear shifting, torque modeling, coastdown fitting, and cruise-control PID implementation.
 
-![Vehicle Simulation](https://img.shields.io/badge/Physics-Based-Simulation-blue)
+![Vehicle Simulation](https://img.shields.io/badge/Physics-Based-Simulation-red)
 ![PID Control](https://img.shields.io/badge/PID-Control-green)
 ![Parameter Estimation](https://img.shields.io/badge/Parameter-Estimation-orange)
 
