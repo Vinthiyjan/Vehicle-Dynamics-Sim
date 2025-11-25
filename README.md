@@ -137,16 +137,19 @@ $$
 Where:
 
 **Engine torque → wheel force**:
+
 $$
 F_{\text{drive}} = \frac{T_{\text{engine}}(RPM) \cdot g_{\text{gear}} \cdot g_{\text{final}}}{R_w}
 $$
 
 **Aerodynamic drag**:
+
 $$
 F_{\text{drag}} = \frac{1}{2} \rho C_d A v^2
 $$
 
 **Rolling resistance**:
+
 $$
 F_{\text{roll}} = C_r m g
 $$
