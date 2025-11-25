@@ -2,7 +2,7 @@
 
 A comprehensive physics-based longitudinal vehicle model with gear shifting, torque modeling, coastdown fitting, and cruise-control PID implementation.
 
-![Vehicle Simulation](https://img.shields.io/badge/Physics-Based-Simulation-red)
+![Vehicle Simulation](https://img.shields.io/badge/Physics_Based-Simulation-red)
 ![PID Control](https://img.shields.io/badge/PID-Control-green)
 ![Parameter Estimation](https://img.shields.io/badge/Parameter-Estimation-orange)
 
@@ -42,6 +42,7 @@ This project implements a complete longitudinal vehicle dynamics simulator, incl
 
 ## Repository Structure
 
+```
 project/
 ├── src/
 │ ├── models.py # Longitudinal ODE model + forces
@@ -55,7 +56,7 @@ project/
 ├── demo.ipynb # Full simulation + fitting walkthrough
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Example Results
 
