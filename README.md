@@ -156,7 +156,7 @@ $$
 
 The model also includes: downforce effects, grip limits, braking dynamics, road gradient, and wind influence.
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone <repo_url>
