@@ -48,6 +48,8 @@ project/
 │ ├── models.py # Longitudinal ODE model + forces
 │ ├── simulate.py # Integration + drive cycles
 │ ├── fit.py # Coastdown parameter estimation
+│ ├── gear_selection_during_acceleration # gear selsction during acceleration simulation
+│ ├── velocity_road_grades # Simulation relsults for different road grades
 │ └── control.py # PID controller logic
 ├── images/
 │   ├── acceleration_curve.png
